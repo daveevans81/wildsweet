@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.wildsweet.co.uk/</loc>
+    <loc>https://wildsweet.pages.dev/</loc>
+  </url>
+  <url>
+    <loc>https://wildsweet.pages.dev/gallery</loc>
+  </url>
+  <url>
+    <loc>https://wildsweet.pages.dev/shop</loc>
+  </url>
+  <url>
+    <loc>https://wildsweet.pages.dev/about</loc>
   </url>
 </urlset>
