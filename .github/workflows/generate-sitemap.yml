@@ -19,7 +19,7 @@ jobs:
       - name: Generate sitemap from live site
         run: |
           sitemap-generator https://wildsweet.pages.dev/ --output ./sitemap.xml --maxDepth 10
-
+          sed -i 's|https://wildsweet.pages.dev|https://wildsweet.co.uk|g' sitemap.xml
 
       - name: Setup Git Authentication
         env:
